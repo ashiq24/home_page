@@ -1,1 +1,1 @@
-Sitemap: https://ashiq24.github.io/sitemap.xml
+Sitemap: https://ashiq24.github.io/home_page/sitemap.xml
